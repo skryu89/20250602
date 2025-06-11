@@ -1,3 +1,8 @@
 [user]
 	name = skryu89
 	email = mtjapwd@gmail.com
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[credential]
+	helper = manager-core
+	credentialStore = cache
