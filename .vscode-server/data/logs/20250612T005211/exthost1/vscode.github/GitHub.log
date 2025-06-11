@@ -1,5 +1,0 @@
-2025-06-12 00:52:24.842 [info] ログ レベル: Info
-2025-06-12 00:52:28.524 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: Bad credentials
-2025-06-12 00:52:35.014 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for skryu89/20250602: HttpError: Bad credentials
-2025-06-12 00:52:38.065 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for skryu89/20250602: HttpError: Bad credentials
-2025-06-12 00:54:13.387 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for skryu89/20250602: HttpError: Bad credentials
