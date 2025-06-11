@@ -359,3 +359,12 @@ If you wish to set tracking information for this branch you can do so with:
 2025-06-12 00:50:26.775 [warning] [Git][getBranch] No such branch: main
 2025-06-12 00:50:26.803 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
 2025-06-12 00:50:26.823 [info] > git status -z -uall [38ms]
+2025-06-12 00:50:31.840 [info] > git config --get commit.template [11ms]
+2025-06-12 00:50:31.853 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-06-12 00:50:31.889 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2025-06-12 00:50:31.916 [info] > git status -z -uall [53ms]
+2025-06-12 00:50:32.015 [info] > git config --get commit.template [25ms]
+2025-06-12 00:50:32.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-06-12 00:50:32.078 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [32ms]
+2025-06-12 00:50:32.107 [info] > git status -z -uall [71ms]
+2025-06-12 00:50:32.818 [info] > git check-ignore -v -z --stdin [19ms]
