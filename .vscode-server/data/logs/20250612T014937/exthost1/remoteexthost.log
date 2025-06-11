@@ -1,0 +1,14 @@
+2025-06-12 01:49:57.097 [info] Extension host with pid 13670 started
+2025-06-12 01:50:03.466 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-12 01:50:03.471 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2025-06-12 01:50:10.562 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-12 01:50:10.865 [info] Lock '/home/skryu89/.vscode-server/data/User/workspaceStorage/aad91df03ee4bf4f5f7e1697c29b5ced/vscode.lock': Lock acquired.
+2025-06-12 01:50:11.897 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-12 01:50:11.900 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-12 01:50:13.622 [info] Eager extensions activated
+2025-06-12 01:50:13.622 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 01:50:13.623 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 01:50:19.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1684
+2025-06-12 01:50:24.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1685
+2025-06-12 01:50:29.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1685
+2025-06-12 01:50:37.272 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1734
