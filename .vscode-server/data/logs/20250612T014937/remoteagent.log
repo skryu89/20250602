@@ -22,3 +22,18 @@
 2025-06-12 01:49:54.485 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/skryu89/.vscode-server/extensions/extensions.json
 2025-06-12 01:49:54.487 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.100.2025051409 was successfully installed.
 2025-06-12 01:49:59.703 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 02:40:17.516 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 07:15:41.884 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 07:15:51.260 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 07:16:03.281 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 07:16:08.527 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 07:26:14.476 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-06-12 07:26:15.000 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-06-12 07:26:15.030 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 07:26:18.407 [info] [127.0.0.1][0386ae20][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-06-12 07:26:18.540 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 07:26:19.299 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 07:31:52.149 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 07:33:37.982 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 07:34:17.923 [warning] No ptyHost heartbeat after 6 seconds
