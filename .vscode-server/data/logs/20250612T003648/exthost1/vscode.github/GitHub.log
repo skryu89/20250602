@@ -1,3 +1,0 @@
-2025-06-12 00:37:04.803 [info] ログ レベル: Info
-2025-06-12 00:50:41.101 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for skryu89/20250602: HttpError: Bad credentials
-2025-06-12 00:51:30.483 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for skryu89/20250602: HttpError: Bad credentials
