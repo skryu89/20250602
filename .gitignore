@@ -1,2 +1,11 @@
-.git-credentials
+# VS Code settings
+.vscode/
 .vscode-server/
+
+# Python環境
+__pycache__/
+*.pyc
+
+# Node系（もし使う場合）
+node_modules/
+dist/
