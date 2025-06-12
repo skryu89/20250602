@@ -37,3 +37,55 @@
 2025-06-12 07:31:52.149 [warning] No ptyHost heartbeat after 6 seconds
 2025-06-12 07:33:37.982 [warning] No ptyHost heartbeat after 6 seconds
 2025-06-12 07:34:17.923 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 21:09:44.294 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 21:09:59.730 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 21:10:00.341 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 21:19:36.668 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-06-12 21:19:36.930 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-06-12 21:19:39.824 [info] [127.0.0.1][0386ae20][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-06-12 21:19:39.858 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 21:19:40.622 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 21:39:54.765 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-06-12 21:39:54.838 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-06-12 21:39:59.689 [info] [127.0.0.1][0386ae20][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-06-12 21:39:59.706 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 21:40:00.218 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 21:40:08.126 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 21:40:09.006 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 21:40:09.869 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 21:40:20.717 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 21:40:21.003 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 21:41:32.905 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 21:41:33.242 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:13:22.660 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 22:13:22.914 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-06-12 22:13:22.927 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-06-12 22:13:24.329 [info] [127.0.0.1][0386ae20][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-06-12 22:13:24.332 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 22:13:27.103 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:14:17.545 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:14:17.977 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 22:15:26.617 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 22:15:27.182 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:15:30.932 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:15:31.437 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 22:15:37.065 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 22:15:37.328 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:35:43.872 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 22:35:46.350 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-12 22:35:48.296 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-12 22:35:59.234 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 22:43:31.625 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 22:45:28.036 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-12 22:56:10.499 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-13 00:08:55.770 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-13 00:09:06.905 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-13 00:09:08.272 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.
+2025-06-13 00:10:03.292 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-06-13 00:28:53.336 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-13 00:29:06.002 [info] [127.0.0.1][0386ae20][ManagementConnection] The client has reconnected.
+2025-06-13 00:29:07.829 [info] [127.0.0.1][2a054879][ExtensionHostConnection] The client has reconnected.

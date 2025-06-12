@@ -19,3 +19,7 @@
 2025-06-12 01:55:58.839 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 2025-06-12 02:20:50.584 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
 2025-06-12 07:46:31.376 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-06-12 22:56:35.829 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-06-12 22:56:35.888 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+2025-06-13 00:28:59.934 [error] Error: read ECONNRESET
+	at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
