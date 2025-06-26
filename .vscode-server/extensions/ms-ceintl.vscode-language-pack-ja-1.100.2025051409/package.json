@@ -394,7 +394,7 @@
 		"update": "cd ../vscode && npm run update-localization-extension ja"
 	},
 	"__metadata": {
-		"installedTimestamp": 1749660594270,
+		"installedTimestamp": 1749748447181,
 		"targetPlatform": "undefined",
 		"size": 1931580
 	}
